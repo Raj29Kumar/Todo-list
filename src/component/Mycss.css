@@ -1,0 +1,134 @@
+*
+{
+    background-color: lightgoldenrodyellow;
+    box-sizing: border-box;
+}
+
+
+.maindiv
+{
+  height: 90vh;
+  width: 80vh;
+  border: 0px solid black;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: aquamarine;
+  border-radius: 20px;
+  padding-top: 20px;
+}
+
+.seconddiv
+{
+    height: auto;
+    background-color: aquamarine;
+    border: 0px solid black;
+    
+}
+
+h1
+{
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    color: lightcyan;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.thirddiv
+{
+   
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+
+input
+{
+    width: 80%;
+    height: 40px;  
+    border-radius: 10px;
+    z-index: -1;
+    border: 2px solid black;     
+}
+
+
+.pluse
+{
+    position: relative;
+    font-size: 24px;
+    margin-left: -25px;
+    color: black;
+}
+
+::placeholder
+{
+    color: chocolate;
+    font-size: large;
+}
+
+.taskadd
+{
+    background-color: aquamarine;
+    height: auto;
+    border: 0px solid black;
+    border-radius: 20px;
+}
+
+h3
+{
+    background-color: aquamarine;
+    text-transform: capitalize;
+    width: 75%;
+    text-align: left;
+    border: 0px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:  "Lucida Console", "Courier New", monospace;
+    
+}
+
+.check
+{
+    border: 0px solid black;    
+    margin-left: 10px;
+    background: transparent;
+    
+    
+}
+
+.bgcolor
+{
+    background-color: aquamarine;
+    height: auto;
+    border-radius: 20px;
+    border: 0px solid black;
+}
+
+h2
+{
+    background-color: aquamarine;
+    text-transform: capitalize;
+    width: 75%;
+    text-align: center;
+    border: 0px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    color: grey;
+    
+}
+
+.comdiv
+{
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+
+.footer
+{
+    background-color: lightgoldenrodyellow;
+    height: 5px;
+    width: auto;
+    margin-top: 2px;
+}
